@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300..700;1,300..700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: #FFECDB;
+}
+
+body{
+    background-color: #FEFFFE;
+    font-family: "Cormorant Infant", serif;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+}
+
+#inicio{
+}
+
+.inicio-parrafo{
+    padding: 15px;
+}
+
+img{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin: 15px 0px 25px 35px;
+}
+
+.subtitulo{
+}
+
+#specialties{
+}
+
+footer{
+    
+}
+
+/* #navbar{
+    background-color: coral;
+    
+}
+
+.navegacion{
+    background-color: aquamarine;
+}
+
+nav{
+    background-color: cadetblue;
+} */
